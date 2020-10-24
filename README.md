@@ -20,6 +20,10 @@
   <img alt="GoBarber" src=".github/gobarber.png" width="100%">
 </p>
 
+<p align="center">
+  <img alt="GoBarber" src=".github/mobile.png" width="100%">
+</p>
+
 ## 🚀 Technologies
 
 This project was developed with:
